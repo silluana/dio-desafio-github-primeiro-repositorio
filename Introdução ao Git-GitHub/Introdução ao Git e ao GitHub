@@ -1,0 +1,52 @@
+
+*** Curso de Git e GitHub
+
+Comandos básicos para um bom desepenho no terminal
+
+		Windows		Unix
+Navegar		cd		cd (cd .. p/ voltar na pasta)
+Listar		dir		ls
+Criar pasta	mkdir		mkdir
+Apagar pasta	del / rmdir	rm -rf	
+Limpar		cls		clear ou Ctrl+l
+
+Atalho de teclado
+Tab autocomplete
+
+------------------------------------------------
+
+Objetos internos do Git
+
+	Blobs
+	Trees
+	Commits
+	
+------------------------------------------------
+
+Primeiros comando com o Git
+
+- git init (cria o repositório do Git dentro do diretório)
+- git add
+- git commit 	
+
+------------------------------------------------
+
+Trabalhando com o GitHub
+
+- git remote add origin <link do repositorio>
+- git remote -v
+
+- git push origin master
+
+- git pull origin master
+
+- git clone <url do repositorio>
+
+ 
+
+
+
+
+ 
+
+
